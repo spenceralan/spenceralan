@@ -1,10 +1,10 @@
-## Personal Operating Manual
-### July 2020
+### Personal Operating Manual
+#### July 2020
 
 ---
 
-## Spencer Alan
-### Software Engineer
+### Spencer Alan
+#### Software Engineer
 
 ---
 
