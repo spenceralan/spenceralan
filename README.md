@@ -1,4 +1,4 @@
-<img style="float: right; height: 200px; border-radius: 50%;" src="https://spenceralan.s3-us-west-2.amazonaws.com/images/spenceralan_thumbnail.jpg">
+<!-- <img style="float: right; height: 200px; border-radius: 50%;" src="https://spenceralan.s3-us-west-2.amazonaws.com/images/spenceralan_thumbnail.jpg"> -->
 
 # Personal Operating Manual
 ### Spencer Alan
